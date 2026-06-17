@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#0a0a0b"/>
+  <text
+    x="50%"
+    y="50%"
+    text-anchor="middle"
+    dominant-baseline="central"
+    font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace"
+    font-size="30"
+    font-weight="600"
+    letter-spacing="-0.02em"
+  >
+    <tspan fill="#3b82f6">~</tspan><tspan fill="#ededf0" dx="2">e</tspan>
+  </text>
+</svg>

@@ -1,0 +1,10 @@
+services:
+  frontend:
+    build:
+     context: .
+     dockerfile: Dockerfile
+    image: emilstorgaard-portfolio-frontend:latest
+    container_name: emilstorgaard-portfolio-frontend
+    ports:
+      - '8084:3000'
+    restart: unless-stopped

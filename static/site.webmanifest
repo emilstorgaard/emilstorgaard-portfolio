@@ -1,0 +1,16 @@
+{
+    "name": "Emil Storgaard Andersen",
+    "short_name": "Emil",
+    "description": "Fullstack Developer",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0a0a0b",
+    "theme_color": "#0a0a0b",
+    "icons": [
+        {
+            "src": "/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
