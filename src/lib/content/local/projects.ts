@@ -133,7 +133,7 @@ export const projects: Project[] = [
             da: 'Solo udvikler — full-stack udvikling og CMS-opsætning'
         },
         year: 2024,
-        liveUrl: 'https://dp.emilstorgaard.dk',
+        liveUrl: 'https://elineskrudtugler.dk',
         featured: true,
         order: 2,
         content: [
