@@ -127,7 +127,7 @@ export const projects: Project[] = [
             url: '/projects/childcare/cover.png',
             alt: { en: 'Childcare website hero', da: 'Børnepasser hjemmeside hero' }
         },
-        technologies: ['svelte', 'typescript', 'tailwind', 'umbraco', 'C#', 'Docker'],
+        technologies: ['svelte', 'typescript', 'tailwind', 'umbraco', 'C#', 'Docker', 'GitHub Actions', 'GitHub Container Registry'],
         role: {
             en: 'Solo developer — full-stack development and CMS setup',
             da: 'Solo udvikler — full-stack udvikling og CMS-opsætning'
