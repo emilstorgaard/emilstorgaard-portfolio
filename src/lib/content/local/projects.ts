@@ -21,7 +21,7 @@ export const projects: Project[] = [
             url: '/projects/proteinpro/cover.png',
             alt: { en: 'ProteinPro homepage hero', da: 'ProteinPro forside hero' }
         },
-        technologies: ['svelte', 'typescript', 'tailwind', 'nodejs'],
+        technologies: ['svelte', 'typescript', 'tailwind', 'C#', 'MSSQL', 'Docker'],
         role: {
             en: 'Solo developer — design, development, and launch',
             da: 'Solo udvikler — design, udvikling og lancering'
@@ -127,7 +127,7 @@ export const projects: Project[] = [
             url: '/projects/childcare/cover.png',
             alt: { en: 'Childcare website hero', da: 'Børnepasser hjemmeside hero' }
         },
-        technologies: ['svelte', 'typescript', 'tailwind', 'umbraco', 'csharp'],
+        technologies: ['svelte', 'typescript', 'tailwind', 'umbraco', 'C#', 'Docker'],
         role: {
             en: 'Solo developer — full-stack development and CMS setup',
             da: 'Solo udvikler — full-stack udvikling og CMS-opsætning'
@@ -225,7 +225,7 @@ export const projects: Project[] = [
             url: '/projects/musicplayer/cover.png',
             alt: { en: 'Music Player', da: 'Musikafspiller' }
         },
-        technologies: ['svelte', 'typescript', 'nodejs'],
+        technologies: ['svelte', 'typescript', 'C#', 'MSSQL', 'Docker'],
         role: {
             en: 'Solo developer — passion project',
             da: 'Solo udvikler — passionsprojekt'
